@@ -1,0 +1,29 @@
+.contact {
+  background: #f5f5f5;
+  padding: 50px 0; }
+  .contact .contact-content {
+    padding: 48px 150px;
+    background: #fff; }
+    .contact .contact-content h3 {
+      font-family: OpenSans-Bold, sans-serif;
+      font-size: 24px;
+      color: #202020;
+      padding-bottom: 24px; }
+    .contact .contact-content .content {
+      padding: 10px 0; }
+      .contact .contact-content .content p {
+        font-family: OpenSans-Regular, sans-serif;
+        font-size: 14px;
+        color: #444444; }
+      .contact .contact-content .content img {
+        width: 100%;
+        height: auto; }
+  .contact .want a {
+    text-align: center;
+    background: #dedede;
+    color: #2d2928; }
+  .contact .want a.active {
+    background: #eb0a1e;
+    color: #ffff; }
+
+/*# sourceMappingURL=contact.css.map */

@@ -1,0 +1,62 @@
+.footer {
+    background: #000000;
+    padding: 40px 0;
+    h3 {
+        font-size: $size-15;
+        color: #e2e2e2;
+    }
+    p {
+        font-size: $size-14;
+        color: #767676;
+        padding-top: 10px;
+    }
+    .box-footer {
+        padding: 30px 0;
+        .menu-footer {
+            li {
+                float: left;
+                width: 165px;
+                a {
+                    display: block;
+                    font-size: $size-14;
+                    color: #ababab;
+                    text-transform: uppercase;
+                    padding-bottom: 20px;
+                }
+            }
+        }
+        .form-contact {
+            padding-right: 30px;
+        }
+        .form-group {
+            padding: 20px 0;
+            .form-control {
+                height: 45px;
+                background: #2f2f2f;
+                color: #ffff;
+                border: none;
+            }
+            .form-control::placeholder {
+                font-size: $size-14;
+                color: #767676;
+            }
+        }
+        &:first-child {
+            border-bottom: 1px solid #515151;
+        }
+    }
+    .info-footer {
+        p {
+            svg {
+                width: 20px;
+            }
+        }
+    }
+    .copyright {
+        p {
+            font-size: $size-13;
+            color: #767676;
+        }
+    }
+}
+

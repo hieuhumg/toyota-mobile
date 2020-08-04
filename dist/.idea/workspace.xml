@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="660c9617-7fec-4c08-a8ca-3b2901374fa3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/so y te.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nhauthaicuu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail-post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/bootstrap-datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/Logo-header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/ava-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/background-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/background-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/background-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/banner-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/banner-document.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/banner-footer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/banner-gioithieu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/banner-lienhe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/banner-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/baocao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/chiso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/chisopapi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/chungnhan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/chuyengia1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/chuyengia2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/data-dowload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/data.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/dateail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/document-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/document.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/duan1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/flag-en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/flag-vn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/ghe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/hoi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/hoi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icon-bn-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icon-bn-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icon-bn-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/icon-bn-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/Báº£n-sao-cá»§a-12-san-pham-chi-tiet_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/Báº£n-sao-cá»§a-12-san-pham-chi-tiet_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/Báº£n-sao-cá»§a-12-san-pham-chi-tiet_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/Báº£n-sao-cá»§a-12-san-pham-chi-tiet_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/Bản-sao-của-12-san-pham-chi-tiet_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/Bản-sao-của-12-san-pham-chi-tiet_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/Bản-sao-của-12-san-pham-chi-tiet_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/Bản-sao-của-12-san-pham-chi-tiet_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/banner-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/banner-ab_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/banner-ab_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/banner-ab_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/phone-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/á»«ewfef_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/á»«ewfef_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/á»«ewfef_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/ừewfef_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/ừewfef_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/images/ừewfef_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/img-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/img-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/img-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/index-total.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/index-year.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/intro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/item-index.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/journeys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/lalisse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-footer-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-footer-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-footer-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-footer-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-footer.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/logo-footer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-goal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-parter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo-uc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/mess.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/mota.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/new-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/news-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/next-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/notify-banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/papi-a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/papi-icon-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/papi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/people.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/product-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/service/2-sanpham.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/service/nhau-thai-cuu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/service/tien-liet-tuyen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/service/tinh-hau.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/service/vitamin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/sun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/traloi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/tuvan_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/uef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/cart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/cart.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/common.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/common.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/contact.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/content.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/data.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/data.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/document.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/document.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/hst.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/hst.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/intro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/intro.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/intro.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/list-post.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/list-post.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/notify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/notify.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/overview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/overview.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/overview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/pay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/pay.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/pay.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/product.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/product.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/question.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/question.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/question.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/shared.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/shared.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/scss/video.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scss/video.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gioithieu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosotinh.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lienhe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notify.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overview-index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-detail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ze7uZARy0lS8Xu7DxKS8HTPSGV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/scss" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\WG\TOYOTA\dist\scss" />
+      <recent name="C:\xampp\htdocs\WG\TOYOTA\dist" />
+      <recent name="C:\xampp\htdocs\WC\TOYOTA" />
+      <recent name="C:\xampp\htdocs\WC\TOYOTA\dist\scss" />
+      <recent name="C:\xampp\htdocs\WG\TOYOTA\dist\fonts" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="660c9617-7fec-4c08-a8ca-3b2901374fa3" name="Default Changelist" comment="" />
+      <created>1585187928703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585187928703</updated>
+      <workItem from="1585187931169" duration="12187000" />
+      <workItem from="1585217659898" duration="149000" />
+      <workItem from="1585539527130" duration="4975000" />
+      <workItem from="1585581474077" duration="443000" />
+      <workItem from="1585622820313" duration="3804000" />
+      <workItem from="1585643264739" duration="3483000" />
+      <workItem from="1585707990546" duration="11997000" />
+      <workItem from="1585812767083" duration="85000" />
+      <workItem from="1585875615882" duration="3422000" />
+      <workItem from="1585931312398" duration="32000" />
+      <workItem from="1585960962329" duration="577000" />
+      <workItem from="1586050868347" duration="14603000" />
+      <workItem from="1586168364051" duration="19000" />
+      <workItem from="1586504244305" duration="3675000" />
+      <workItem from="1586572633744" duration="1197000" />
+      <workItem from="1586660913427" duration="259000" />
+      <workItem from="1586765006728" duration="1732000" />
+      <workItem from="1586829976057" duration="5262000" />
+      <workItem from="1586882368703" duration="12019000" />
+      <workItem from="1587004074021" duration="4635000" />
+      <workItem from="1587025756543" duration="4557000" />
+      <workItem from="1587107691677" duration="8253000" />
+      <workItem from="1587143772533" duration="87000" />
+      <workItem from="1587180304165" duration="4054000" />
+      <workItem from="1587229774255" duration="500000" />
+      <workItem from="1587265179626" duration="514000" />
+      <workItem from="1587352188130" duration="5636000" />
+      <workItem from="1587401587668" duration="626000" />
+      <workItem from="1587454949892" duration="8600000" />
+      <workItem from="1587484760827" duration="14272000" />
+      <workItem from="1587601354006" duration="28000" />
+      <workItem from="1587629586403" duration="1766000" />
+      <workItem from="1587783806479" duration="1807000" />
+      <workItem from="1587950156437" duration="1427000" />
+      <workItem from="1588734993715" duration="16505000" />
+      <workItem from="1588814917188" duration="20487000" />
+      <workItem from="1588903014452" duration="1524000" />
+      <workItem from="1589018115865" duration="1168000" />
+      <workItem from="1589161155612" duration="8703000" />
+      <workItem from="1589179176053" duration="13881000" />
+      <workItem from="1589247155455" duration="19781000" />
+      <workItem from="1590374083110" duration="368000" />
+      <workItem from="1593673603294" duration="2773000" />
+      <workItem from="1593759862939" duration="1174000" />
+      <workItem from="1594004394418" duration="13454000" />
+      <workItem from="1594622963236" duration="2652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Deployment" timestamp="1589268809925">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Deployment/0.0.1366.738@0.0.1366.738" timestamp="1589268809925" />
+    <state x="379" y="79" key="FileChooserDialogImpl" timestamp="1594623927208">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738/-1920.-226.1920.1050@0.0.1366.738" timestamp="1587631970068" />
+    <state x="379" y="79" key="FileChooserDialogImpl/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1594623927208" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589281287090" />
+    <state x="651" y="173" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587601380189" />
+    <state x="286" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588758383326">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="286" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1588758383326" />
+    <state x="380" y="106" width="607" height="527" key="find.popup" timestamp="1589272669962">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="380" y="106" width="607" height="527" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1589272669962" />
+    <state x="534" y="149" width="852" height="742" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586081656720" />
+    <state x="529" y="99" key="ftp.server.browser" timestamp="1589268808908">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="529" y="99" key="ftp.server.browser/0.0.1366.738@0.0.1366.738" timestamp="1589268808908" />
+    <state x="438" y="170" key="run.anything.popup" timestamp="1589272614353">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="438" y="170" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1589272614353" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587365995972" />
+  </component>
+</project>

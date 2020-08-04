@@ -1,0 +1,186 @@
+// đổi xe
+.value-car {
+    margin: 20px 0;
+    padding: 20px 40px;
+    background: #f5f5f5;
+    display: inline-block;
+    p {
+        font-size: $size-16;
+        color: #202020;
+        font-family: "Open Sans SemiBold", sans-serif !important;
+        span {
+            font-family: OpenSans-Bold, sans-serif;
+            color: #eb0a1e;
+            display: inline-block;
+            margin-left: 30px;
+        }
+    }
+}
+
+// cần đổi xe 3
+.info_change_car {
+    margin-bottom: 20px;
+    ul {
+        width: 100%;
+        display: inline-block;
+        list-style: disc;
+        li {
+            display: inline-block;
+            list-style: disc;
+            padding: 7px 13px;
+        }
+    }
+}
+.info_color_car {
+    background: #fbfbfb;
+    padding: 30px;
+    height: 100%;
+    box-shadow: 0px 3px 6px #cacaca;
+    .agency {
+        .item {
+            margin-bottom: 15px;
+            p {
+                font-family: "Open Sans Light", sans-serif;
+                color: #575757;
+                font-size: $size-13;
+                margin-bottom: 0;
+                -webkit-box-flex: 0;
+                -ms-flex: 0 0 50%;
+                flex: 0 0 50%;
+                border-right: 1px solid #ebebeb;
+                span {
+                    font-family: OpenSans-Bold, sans-serif;
+                }
+                i {
+                    font-size: $size-15;
+                    color: #979797;
+                    width: 15px;
+                    text-align: center;
+                    margin-right: 10px;
+                }
+                &:nth-child(2) {
+                    padding-left: 15px;
+                    border-right: none;
+                }
+            }
+        }
+    }
+    .select-color {
+        margin-top: 50px;
+        h5 {
+            font-size: $size-13;
+            color: #4d4d4d;
+            font-family: OpenSans-Bold, sans-serif;
+        }
+        span {
+            display: block;
+            height: 35px;
+            width: 35px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+        span.active {
+            border: 1px solid black;
+        }
+    }
+    .select-agency {
+        margin-top: 30px;
+        p {
+            font-size: $size-14;
+            font-family: "Open Sans Light", sans-serif;
+            color: #575757;
+        }
+        h5 {
+            font-size: $size-14;
+            font-family: OpenSans-Bold, sans-serif;
+            color: #575757;
+        }
+         a {
+             display: block;
+             font-size: $size-14;
+             color: #595959;
+
+         }
+    }
+    .more-video {
+        a {
+            width: 100%;
+            text-align: center;
+            font-family: OpenSans-Bold, sans-serif;
+        }
+    }
+
+    //css phần 2
+    .estimated_value {
+        .item {
+            padding: 20px 0;
+            border-bottom: 1px solid #ebebeb;
+            &:first-child {
+                padding-top: 0;
+            }
+            p {
+                font-size: $size-16;
+                color: #595959;
+                margin-bottom: 0;
+                span {
+                    font-family: OpenSans-Bold, sans-serif;
+                }
+                img {
+                    margin-right: 5px;
+                }
+                svg {
+                    margin-left: 5px;
+                    color: #999999;
+                    font-size: $size-16;
+                }
+            }
+
+        }
+        .more-video {
+            a {
+                background: #4f4f4f;
+                font-family: OpenSans-Bold, sans-serif;
+            }
+        }
+        p.change-name {
+            font-size: $size-12;
+            color: #595959;
+            span {
+                color: #eb0a1e;
+            }
+        }
+        .custom-select {
+            height: 40px;
+        }
+        a.chondaily {
+            font-size: $size-16;
+            color: #4d4d4d;
+            display: block;
+            margin-top: 20px;
+            text-decoration: underline;
+        }
+    }
+}
+.info_value {
+    .more-video {
+        padding-top: 20px;
+        a {
+            background: #4f4f4f;
+            font-family: OpenSans-Bold, sans-serif;
+            color: $color-white;
+            &:hover {
+                background: #eb0a1e;
+            }
+        }
+    }
+    >a {
+        font-size: $size-16;
+        color: #4d4d4d;
+        text-align: center;
+        display: block;
+        margin-top: 20px;
+        text-decoration: underline;
+    }
+}
+
+// cần đổi xe 5

@@ -1,0 +1,39 @@
+//giới thiệu
+
+.contact {
+    background: #f5f5f5;
+    padding: 50px 0;
+    .contact-content {
+        padding: 48px 150px;
+        background: #fff;
+        h3 {
+            font-family: OpenSans-Bold, sans-serif;
+            font-size: 24px;
+            color: #202020;
+            padding-bottom: 24px;
+        }
+        .content {
+            padding: 10px 0;
+            p {
+                font-family: OpenSans-Regular, sans-serif;
+                font-size: 14px;
+                color: #444444;
+            }
+            img {
+                width: 100%;
+                height: auto;
+            }
+        }
+    }
+    .want {
+        a {
+            text-align: center;
+            background: #dedede;
+            color: #2d2928;
+        }
+        a.active {
+            background: #eb0a1e;
+            color: #ffff;
+        }
+    }
+}

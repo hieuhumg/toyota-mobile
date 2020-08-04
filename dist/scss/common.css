@@ -1,0 +1,226 @@
+@font-face {
+  font-family: Roboto-light;
+  src: url("./../fonts/Roboto-Light.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-regular;
+  src: url("./../fonts/Roboto-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-bold;
+  src: url("./../fonts/Roboto-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-medium;
+  src: url("./../fonts/Roboto-Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: "Open Sans SemiBold";
+  src: url("./../fonts/OpenSans-Semibold.ttf") format("truetype"); }
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: url("./../fonts/OpenSans-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Open Sans ExtraBold";
+  src: url("./../fonts/OpenSans-ExtraBold.ttf") format("truetype"); }
+@font-face {
+  font-family: "OpenSans-Regular";
+  src: url("./../fonts/OpenSans-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "RobotoCondensed-Bold";
+  src: url("./../fonts/RobotoCondensed-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "OpenSans-Italic";
+  src: url("./../fonts/OpenSans-Italic.ttf") format("truetype"); }
+@font-face {
+  font-family: "Arial";
+  src: url("./../fonts/Arial.ttf") format("truetype"); }
+@font-face {
+  font-family: "Arial-bold";
+  src: url("./../fonts/arial-bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Merriweather-Bold";
+  src: url("./../fonts/Merriweather-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Merriweather-Regular";
+  src: url("./../fonts/Merriweather-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "RobotoCondensed-Regular";
+  src: url("./../fonts/RobotoCondensed-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "RobotoCondensed-Bold";
+  src: url("./../fonts/RobotoCondensed-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Font_Awesome_5_Light-300";
+  src: url("./../fonts/Font_Awesome_5_Light-300.otf") format("truetype"); }
+:root {
+  font-size: 14px; }
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px; } }
+p, a, h1, h2, h3, h4, h5 {
+  line-height: 1.5; }
+
+body {
+  font-family: OpenSans-Regular, sans-serif; }
+
+p {
+  font-size: 1rem;
+  margin-bottom: 0.33rem;
+  line-height: 1.5; }
+
+a:hover {
+  text-decoration: none; }
+
+a.title {
+  color: #f1100f;
+  font-size: 1.285rem;
+  font-family: Montserrat-Medium,sans-serif; }
+
+figure {
+  margin: 0; }
+
+.img-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; }
+
+.img-contain {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; }
+
+h3.title-logo {
+  font-size: 2.1875rem;
+  font-family: Montserrat-Bold,sans-serif; }
+  h3.title-logo span {
+    font-weight: bold;
+    font-family: Montserrat-Regular,sans-serif; }
+
+h5.title {
+  font-size: 1.428rem;
+  color: #888888;
+  font-family: Montserrat-Bold, sans-serif; }
+
+p.title {
+  font-size: 2rem;
+  color: #f1100f;
+  padding: 1.5rem 0;
+  font-family: Montserrat-SemiBold,sans-serif; }
+
+a.button {
+  font-size: 1.067rem;
+  color: white;
+  background: #0080c6;
+  padding-top: 10px;
+  height: 45px;
+  width: 170px;
+  display: block;
+  border-radius: 50px;
+  text-align: center; }
+
+a.buy {
+  display: block;
+  font-size: 1rem;
+  width: 165px;
+  height: 42px;
+  background: #f1100f;
+  color: white;
+  margin: auto;
+  padding-top: 10px;
+  border-radius: 3px;
+  text-align: center;
+  font-family: Roboto-bold, sans-serif; }
+
+p.des {
+  padding-top: 10px;
+  font-size: 0.928rem;
+  color: #666666;
+  font-family: Roboto-regular, sans-serif;
+  line-height: 1.5; }
+
+.border-box {
+  border-right: 1px solid #ebebeb; }
+
+.pt-4-fix {
+  padding-top: 30px; }
+
+* {
+  min-height: 0;
+  min-width: 0; }
+
+.apply .wave:after {
+  background: #fff;
+  content: "";
+  height: 155px;
+  left: -100px;
+  opacity: .3;
+  position: absolute;
+  top: -30px;
+  transform: rotate(35deg);
+  transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
+  width: 50px;
+  z-index: 10; }
+.apply .btn_apply, .apply .submit {
+  border-radius: 6px;
+  display: inline-block;
+  position: relative;
+  border: none;
+  opacity: 1;
+  cursor: pointer;
+  overflow: hidden;
+  color: #ffff;
+  font-family: "Open Sans SemiBold", sans-serif;
+  font-size: 1.428rem;
+  padding: 7px 47px;
+  background: #ed1b2f;
+  border: none;
+  margin-left: 35px;
+  text-transform: uppercase; }
+  .apply .btn_apply:focus, .apply .submit:focus {
+    outline: none; }
+  .apply .btn_apply:hover .wave:after, .apply .submit:hover .wave:after {
+    left: 120%;
+    transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1); }
+  .apply .btn_apply span.btn, .apply .submit span.btn {
+    display: block;
+    padding-right: 15px;
+    margin-top: 0 !important;
+    color: white;
+    font-size: 1.428rem; }
+    @media screen and (max-width: 768px) {
+      .apply .btn_apply span.btn, .apply .submit span.btn {
+        padding: 18px 52px; } }
+    .apply .btn_apply span.btn:before, .apply .btn_apply span.btn:after, .apply .submit span.btn:before, .apply .submit span.btn:after {
+      content: "";
+      width: 0px;
+      height: 0;
+      position: absolute;
+      transition: all 0.2s linear;
+      background: #fff; }
+  .apply .btn_apply:before, .apply .btn_apply:after, .apply .submit:before, .apply .submit:after {
+    content: "";
+    width: 0;
+    height: 2px;
+    position: absolute;
+    transition: all 0.2s linear;
+    background: #fff; }
+  .apply .btn_apply:hover:before, .apply .btn_apply:hover:after, .apply .submit:hover:before, .apply .submit:hover:after {
+    width: 100%; }
+  .apply .btn_apply:hover span:before, .apply .btn_apply:hover span:after, .apply .submit:hover span:before, .apply .submit:hover span:after {
+    height: 100%; }
+  .apply .btn_apply::after, .apply .submit::after {
+    left: 0;
+    bottom: 0;
+    transition-duration: 0.4s; }
+  .apply .btn_apply span::after, .apply .submit span::after {
+    right: 0;
+    top: 0;
+    transition-duration: 0.4s; }
+  .apply .btn_apply::before, .apply .submit::before {
+    right: 0;
+    top: 0;
+    transition-duration: 0.4s; }
+  .apply .btn_apply span::before, .apply .submit span::before {
+    left: 0;
+    bottom: 0;
+    transition-duration: 0.4s; }
+
+/*# sourceMappingURL=common.css.map */

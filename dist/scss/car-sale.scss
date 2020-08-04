@@ -1,0 +1,227 @@
+//cần bán xe
+
+.title-car {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    h3 {
+        font-family: OpenSans-Bold, sans-serif;
+        color: #fff;
+        font-size: 34px;
+    }
+    p {
+        color: #fff;
+        font-family: "Open Sans Light", sans-serif;
+        font-size: $size-16;
+    }
+}
+.car-sale {
+    padding: 82px 0 130px 0;
+
+    .car-sale-widget {
+        padding: 60px;
+        background: #fff;
+        p.text {
+            width: 270px;
+            opacity: .6;
+        }
+        p.active {
+            opacity: 1 !important;
+        }
+        h5 {
+            font-family: OpenSans-Bold, sans-serif;
+            font-size: $size-18;
+            color: #eb0a1e;
+        }
+        .steps {
+            padding-bottom: 25px;
+            p {
+                font-size: $size-14;
+                color: #444444;
+                span {
+                    font-family: OpenSans-Bold, sans-serif;
+                }
+            }
+        }
+        i {
+            color: #444444;
+            margin: 0 20px;
+        }
+    }
+    .car-price {
+        border-top: 1px solid #ebebeb;
+        padding-top: 25px;
+        h3 {
+            font-size: $size-24;
+            color: #202020;
+            font-family: OpenSans-Bold, sans-serif;
+        }
+        h5 {
+            font-size: $size-18;
+            color: #202020;
+            font-family: OpenSans-Bold, sans-serif;
+            padding-top: 10px;
+        }
+        p {
+            font-family: OpenSans-Regular, sans-serif;
+            font-size: $size-14;
+            color: #444444;
+        }
+        .custom-select {
+            width: 180px;
+            height: 40px;
+            font-size: $size-14;
+            color: #202020;
+            font-family: OpenSans-Regular, sans-serif;
+        }
+        .form-sale-car {
+            .form-control {
+                margin-bottom: 15px;
+                height: 40px;
+            }
+            a.tuvan {
+                text-align: center;
+            }
+        }
+        p.note {
+            color: #878787;
+            font-size: $size-13;
+            font-family: OpenSans-Regular, sans-serif;
+            padding-bottom: 10px;
+        }
+        .custom-select {
+            width: 100%;
+        }
+        .custom-select, .form-control {
+            width: 100%;
+            height: 40px;
+        }
+        .price {
+            left: 30px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        .VND {
+            top: 50%;
+            transform: translateY(-50%);
+            right: 30px;
+        }
+        .form-group {
+            margin-top: 20px;
+        }
+        textarea#textarea {
+            height: 100px;
+        }
+    }
+}
+.change-car {
+    margin-top: 30px;
+    .more {
+        margin-top: 0 !important;
+        margin-left: 30px;
+    }
+}
+span.change {
+    font-size: $size-14;
+    color: #202020;
+    font-family: OpenSans-Bold, sans-serif;
+    a {
+        text-decoration: underline;
+        font-size: $size-14;
+        color: #202020;
+        font-family: OpenSans-Bold, sans-serif;
+    }
+}
+//modal
+.modal {
+    .modal-body {
+        padding: 40px 20px;
+        .col-md-3 {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
+    .element {
+        p.value {
+            i {
+                margin-right: 10px;
+                width: 20px;
+            }
+            font-family: OpenSans-Bold, sans-serif;
+            color: #202020;
+            font-size: 16px;
+            span {
+                color: #eb0a1e;
+            }
+            padding: 10px 0;
+        }
+        p.endo {
+            font-size: $size-15;
+            color: #ee3846;
+            padding: 10px 0;
+        }
+         p {
+             font-family: OpenSans-Regular, sans-serif;
+             font-size: 14px;
+             color: #444444;
+         }
+    }
+    button.close {
+        position: absolute;
+        right: 20px;
+        font-size: 15px;
+        color: #202020;
+        opacity: 1;
+        top: 13px;
+        font-family: OpenSans-Bold, sans-serif;
+    }
+}
+.modal-dialog {
+    transform: translateY(100%);
+    @media screen and (min-width: 1200px) and (max-width: 1600px) {
+        transform: translateY(50%);
+    }
+    @media screen and (min-width: 576px) {
+        max-width: 1200px;
+    }
+    .title-sale {
+        padding-top: 20px;
+        p {
+            margin-bottom: 0;
+            font-family: OpenSans-Regular, sans-serif;
+            color: #eb0a1e;
+            font-size: $size-14;
+        }
+        img {
+            margin-right: 10px;
+        }
+        a {
+            font-family: OpenSans-Regular, sans-serif;
+            color: #eb0a1e;
+            font-size: $size-14;
+        }
+    }
+}
+.modal-doixe {
+    transform: translateY(30%) !important;
+    @media screen and (min-width: 576px) {
+        max-width: 1200px;
+    }
+}
+.chung-nhan {
+    input[type="checkbox"] {
+        height: 1.3rem;
+        width: 1.3rem;
+        margin-right: 10px;
+    }
+    img {
+        margin: 0 10px;
+    }
+    label {
+        font-family: "Open Sans SemiBold", sans-serif;
+        color: #eb0a1e;
+        font-size: $size-20;
+    }
+}
